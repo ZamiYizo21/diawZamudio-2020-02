@@ -44,5 +44,4 @@ module.exports = {
         ]
     },
     // 5. le pondremos un plugin para utilizar eslint
-    plugins: [new EsLintPlugin()]
-}
+  
